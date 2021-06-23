@@ -1,0 +1,5 @@
+C:\Users\Milen\Desktop\github\ExcursionProject\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+C:\Users\Milen\Desktop\github\ExcursionProject\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milen\Desktop\github\ExcursionProject\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\Milen\Desktop\github\ExcursionProject\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\Milen\Desktop\github\ExcursionProject\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache

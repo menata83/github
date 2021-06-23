@@ -1,0 +1,12 @@
+C:\Users\Milen\Desktop\github\ExcursionProject\country\bin\Debug\net5.0\country.deps.json
+C:\Users\Milen\Desktop\github\ExcursionProject\country\bin\Debug\net5.0\country.dll
+C:\Users\Milen\Desktop\github\ExcursionProject\country\bin\Debug\net5.0\ref\country.dll
+C:\Users\Milen\Desktop\github\ExcursionProject\country\bin\Debug\net5.0\country.pdb
+C:\Users\Milen\Desktop\github\ExcursionProject\country\obj\Debug\net5.0\country.csproj.AssemblyReference.cache
+C:\Users\Milen\Desktop\github\ExcursionProject\country\obj\Debug\net5.0\country.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milen\Desktop\github\ExcursionProject\country\obj\Debug\net5.0\country.AssemblyInfoInputs.cache
+C:\Users\Milen\Desktop\github\ExcursionProject\country\obj\Debug\net5.0\country.AssemblyInfo.cs
+C:\Users\Milen\Desktop\github\ExcursionProject\country\obj\Debug\net5.0\country.csproj.CoreCompileInputs.cache
+C:\Users\Milen\Desktop\github\ExcursionProject\country\obj\Debug\net5.0\country.dll
+C:\Users\Milen\Desktop\github\ExcursionProject\country\obj\Debug\net5.0\ref\country.dll
+C:\Users\Milen\Desktop\github\ExcursionProject\country\obj\Debug\net5.0\country.pdb
