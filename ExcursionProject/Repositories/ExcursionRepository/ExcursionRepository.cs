@@ -1,4 +1,6 @@
-﻿using System;
+﻿using country;
+using Data;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,8 +22,8 @@ namespace Repositories.ExcursionRepository
         }
         public void Update(Excursion Excursion)
         {
-            var oldExcursion = _appDbContext.Excursion.Single(x => x.Id == Excursion.Id);
-            oldExcursion.Country = excursion.Country;
+            var oldExcursion = _appDbContext.Excursions.Single(x => x.Id == Excursion.Id);
+            oldExcursion.Country = Excursion.Country;
         }
 
     }
